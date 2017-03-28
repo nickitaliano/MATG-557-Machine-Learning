@@ -1,0 +1,3 @@
+formatSpec = '%f%C%C';
+T = readtable('/Volumes/Macintosh HD/Users/Frank/Downloads/lanl-auth-dataset-1-00.txt',...
+    'Delimiter',',','Format',formatSpec);
